@@ -1,0 +1,15 @@
+C:\repos\CoreSFG1\CoreSFG1\bin\Debug\netcoreapp3.1\CoreSFG1.exe
+C:\repos\CoreSFG1\CoreSFG1\bin\Debug\netcoreapp3.1\CoreSFG1.deps.json
+C:\repos\CoreSFG1\CoreSFG1\bin\Debug\netcoreapp3.1\CoreSFG1.runtimeconfig.json
+C:\repos\CoreSFG1\CoreSFG1\bin\Debug\netcoreapp3.1\CoreSFG1.runtimeconfig.dev.json
+C:\repos\CoreSFG1\CoreSFG1\bin\Debug\netcoreapp3.1\CoreSFG1.dll
+C:\repos\CoreSFG1\CoreSFG1\bin\Debug\netcoreapp3.1\CoreSFG1.pdb
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.csprojAssemblyReference.cache
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.R1.resources
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.csproj.GenerateResource.cache
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.AssemblyInfoInputs.cache
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.AssemblyInfo.cs
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.csproj.CoreCompileInputs.cache
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.dll
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.pdb
+C:\repos\CoreSFG1\CoreSFG1\obj\Debug\netcoreapp3.1\CoreSFG1.genruntimeconfig.cache

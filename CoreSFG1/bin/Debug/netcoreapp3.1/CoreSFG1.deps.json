@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CoreSFG1/1.0.0": {
+        "runtime": {
+          "CoreSFG1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoreSFG1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
